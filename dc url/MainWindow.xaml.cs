@@ -23,6 +23,7 @@ namespace dc_url
         public MainWindow()
         {
             InitializeComponent();
+
         }
     }
 }
